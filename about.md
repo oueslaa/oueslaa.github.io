@@ -5,6 +5,9 @@ title: About
 
 <p class="message">
   Hey there I will put my resume
+
+
+
 ## Setup
 
 Some fun facts about the setup of this project include:

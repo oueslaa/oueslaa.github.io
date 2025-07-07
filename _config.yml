@@ -8,8 +8,8 @@ permalink:        pretty
 # Setup
 title:            Anis Oueslati
 tagline:          'A Jekyll theme'
-description:      'PhD student at King s Abdallah University of Science and Technology  <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+description:      'PhD student at King s Abdallah University of Science and Technology in Computer Science in PRADA Lab'
+url:              https://oueslaa.github.io/
 baseurl:          /
 
 author:
